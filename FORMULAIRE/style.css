@@ -1,0 +1,25 @@
+body{
+    display:flex;
+    justify-content: center;
+}
+#myForm {
+   padding:100px; 
+   width:250px;
+   margin:100px;
+   border: 5px  blue solid;
+   gap:10px;
+
+  
+   
+
+}
+#id , #nom , #prenom {
+    width:300px;
+}
+#sub{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    width:250px;
+    height:25px;
+    margin-left: 10px;
+}
